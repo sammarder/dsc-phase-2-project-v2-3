@@ -17,6 +17,12 @@ Century 21 is looking to expand its footprint into a new market
 
 ## Modeling
 
+* I choose to use only sqft living and grade because of their high coorelation to the price
+
 ## Regression Results
 
+* The regression result is that we want a high grade and high sqft living as those are most highly coorelated with price
+
 ## Conclusion
+
+* I would expand on a house with a high grade while maintaining or improving that grade
