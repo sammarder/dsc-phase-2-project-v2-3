@@ -13,15 +13,16 @@ Century 21 is looking to expand its footprint into a new market
 ## Data Understanding
 
 * We have data from several recent sales of houses including when the house built, sqft of the lot and of the living space
-* This data is suitable for regression because we have multiple features that could be useful to a model such as year built, waterfront view, and more
 
 ## Modeling
 
-* I choose to use only sqft living and grade because of their high coorelation to the price
+* We are trying to predict a price via factors such as a housing score, floors, and other features
+* One feature we are using is the product of grade and the log transform of sqft living space 
+
 
 ## Regression Results
 
-* The regression result is that we want a high grade and high sqft living as those are most highly coorelated with price
+* Based on these findings, I suggest renovating an older house to have more living space and a higher overall quality (leading to a higher housing score in the model)
 
 ## Conclusion
 
